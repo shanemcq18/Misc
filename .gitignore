@@ -1,0 +1,54 @@
+# Figures and Docs
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.ps
+*.eps
+*.svg
+
+# Extra Python files
+*.py[cod]
+__pycache__/
+.ipynb_checkpoints/
+
+# Extra Matlab files
+*.mat
+*.*~
+html/
+
+# Extra LaTex files
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+*.nav
+*.snm
+
+# Data files
+*.np[yz]
+*.h5
+*.dat
+*.lay
+
+# Compressed files and backups
+*.zip
+*.tar
+*.tar.gz
+
+# Large media
+*.mp4
+*.avi
+*.gif
+*.pptx
+
+# SVN repo files
+.svn/
+
+# Extra Mac files
+*.DS_Store
+
